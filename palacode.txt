@@ -1,4 +1,12 @@
 a=20
 b=30
 c=a+b
+<<<<<<< HEAD
 print(c)
+=======
+print(c)
+d=b-a
+print(d)
+e=a*b
+print(e)
+>>>>>>> india
